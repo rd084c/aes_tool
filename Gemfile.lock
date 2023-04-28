@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    coconut_aes_tool (0.1.0)
+    aes_tool (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -26,8 +26,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  aes_tool!
   bundler (~> 1.17)
-  coconut_aes_tool!
   rake (~> 10.0)
   rspec (~> 3.0)
 
