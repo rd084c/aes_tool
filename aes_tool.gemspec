@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "aes_tool/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "aes_tool"
+  spec.name          = "coconut_aes_tool"
   spec.version       = AesTool::VERSION
   spec.authors       = ["sunjun"]
   spec.email         = ["rd084c@gmail.com"]
